@@ -1,0 +1,1375 @@
+#topheader {
+    height: 70px;
+    background-color: #007fff;
+  }
+  
+  #topicon i {
+    position: relative;
+    left: 90px;
+    top: 4px;
+    padding: 8px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  #timeandcall {
+    width: 300px;
+    height: 60px;
+    top: 0px;
+    position: relative;
+    left: -200px;
+  }
+  
+  #clockicon {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    top: 13px;
+    left: 2px;
+  }
+  
+  #time {
+    color: white;
+    font-size: 13px;
+    position: relative;
+    top: -25px;
+    left: 50px;
+  }
+  
+  #time_1 {
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: -30px;
+    left: 43px;
+    font-weight: 100;
+  }
+  
+  #vl {
+    border-left: 1px solid white;
+    height: 35px;
+    position: relative;
+    top: -75px;
+    left: 205px;
+  }
+  
+  #callicon {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    top: -106px;
+    left: 227px;
+  }
+  
+  #call {
+    /* background-color: black; */
+    color: white;
+    position: relative;
+    top: -145px;
+    left: 271px;
+    font-size: 13px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  #number {
+    color: white;
+    position: relative;
+    top: -150px;
+    left: 264px;
+    font-weight: 100;
+    font-size: 17px;
+  }
+  
+  #logo {
+    width: 200px;
+    position: relative;
+    left: 90px;
+  }
+  
+  #navbar {
+    height: 90px;
+    background-color: white;
+  
+    width: 100%;
+  }
+  
+  #navmanu li a {
+    color: black;
+    position: relative;
+    left: 400px;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 3px;
+  
+  }
+  
+  #navmanu li a:hover {
+    color: #007fff;
+  }
+  
+  #navbtn {
+    background-color: #007fff;
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    width: 214px;
+    font-weight: 700;
+    position: relative;
+    left: 0px;
+    height: 40px;
+  }
+  
+  #navbtn:hover {
+    background-color: #5aa86c;
+    border: 1px solid #5aa86c;
+  }
+  
+  #dropdown {
+    position: absolute;
+    left: 509px;
+    border-radius: 0px;
+    width: 250px;
+  }
+  
+  #dropdown li {
+    position: relative;
+    left: -500px;
+  }
+  #searchbtn {
+    display: none;
+  }
+  #abouttext{
+    position: relative;
+    top: -200px;
+    left: 100px;
+    color: #fff;
+  }  
+  #abouthr{
+    position: relative;
+    width: 40px;
+    height: 3px;
+    background-color: #fff;
+    top: -10px;
+  }
+  #con_5{
+    background-color: #ffffff;
+      background-image: url(welder-used-grinding-stone-on-steel-in-factory-wit-GYJX3WZ.jpg);
+      background-position: center center;
+      background-repeat: no-repeat;
+      padding-top: 60px;
+      padding-right: 30px;
+      padding-bottom: 60px;
+      padding-left: 30px;
+      margin-bottom: 0px;
+      margin-top:-133px;
+      border-width: 0px 0px 0px 0px;
+      border-color: #eae9e9;
+      border-style: solid;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 1000px;
+  }
+  #con_5_row{
+    color: white;
+    text-align: center;
+  }
+  #col_7{
+    height: 200px;
+  }
+  #col_7 img{
+    height: 200px;
+   
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  #col_7 h3{
+    position: relative;
+    top: 10px;
+    color: #fff;
+  }
+  #hr_7{
+    width: 350px;
+    background-color: #fff;
+    height: 3px;
+    position: relative;
+    top: 2px;
+  }
+  #col_7 p{
+    color: #fff;
+    width: 390px;
+  }
+  #col_8{
+    height: 200px;
+  }
+  #col_8 img{
+    height: 200px;
+   width: 350px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  #col_8 h3{
+    position: relative;
+    top: 10px;
+    color: #fff;
+  }
+  #hr_8{
+    width: 350px;
+    background-color: #fff;
+    height: 3px;
+    position: relative;
+    top: 2px;
+  }
+  #col_8 p{
+    color: #fff;
+    width: 390px;
+  }
+  #col_9{
+    height: 200px;
+  }
+  #col_9 img{
+    height: 200px;
+   width: 350px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  #col_9 h3{
+    position: relative;
+    top: 10px;
+    color: #fff;
+  }
+  #hr_9{
+    width: 350px;
+    background-color: #fff;
+    height: 3px;
+    position: relative;
+    top: 2px;
+  }
+  #col_9 p{
+    color: #fff;
+    width: 390px;
+  }
+  #row_2{
+    position: relative;
+    top: 230px;
+  }
+  #col_10{
+    height: 200px;
+  }
+  #col_10 img{
+    height: 200px;
+   width: 350px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  #col_10 h3{
+    position: relative;
+    top: 10px;
+    color: #fff;
+  }
+  #hr_10{
+    width: 350px;
+    background-color: #fff;
+    height: 3px;
+    position: relative;
+    top: 2px;
+  }
+  #col_10 p{
+    color: #fff;
+    width: 390px;
+  }
+  #col_11{
+    height: 200px;
+  }
+  #col_11 img{
+    height: 200px;
+   width: 350px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  #col_11 h3{
+    position: relative;
+    top: 10px;
+    color: #fff;
+  }
+  #hr_11{
+    width: 350px;
+    background-color: #fff;
+    height: 3px;
+    position: relative;
+    top: 2px;
+  }
+  #col_11 p{
+    color: #fff;
+    width: 390px;
+  }
+  #col_12{
+    height: 200px;
+  }
+  #col_12 img{
+    height: 200px;
+   width: 350px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  #col_12 h3{
+    position: relative;
+    top: 10px;
+    color: #fff;
+  }
+  #hr_12{
+    width: 350px;
+    background-color: #fff;
+    height: 3px;
+    position: relative;
+    top: 2px;
+  }
+  #col_12 p{
+    color: #fff;
+    width: 390px;
+  }
+  #form{
+    margin-top: 0px;
+    background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+    height: 400px;
+  }
+  #form_col h2{
+   color: #fff;
+   font-weight: 700;
+   position: relative;
+   top: 50px;
+   width: 500px;
+   left: 50px;
+  }
+  #input_1{
+    position: relative;
+    top: 50px;
+    width: 500px;
+  }
+  #input_2{
+    position: relative;
+    top: 70px;
+    width: 500px;
+  }
+  #input_3{
+    position: relative;
+    top: 90px;
+    width: 500px;
+  }
+  #form_btn{
+    border: #ff7a59;
+    background-color: #ff7a59;
+    color: #fff;
+    position: relative;
+    top: 115px;
+    font-weight: 700;
+  }
+  #helpform{
+    position: relative;
+    top: 150px ;
+    height: 700px;
+    border-radius: 20px;
+  }
+  #helpform h2{
+    text-align: center;
+    position: relative;
+    top: 10px ;
+  }
+  #helpform h3{
+    text-align: center;
+    position: relative;
+    top: 10px ;
+    font-weight: 200;
+    word-spacing: 3px;
+  }
+  #inputform {
+    position: relative;
+    top: 70px;
+    width: 1000px;
+    /* justify-content: center; */
+    left: 150px;
+  }
+  #inputname{
+    background-color: rgb(243, 242, 242);
+    border: 1px solid rgb(125, 125, 125);
+    font-weight: 600;
+  }
+  #inputemail{
+    background-color: rgb(243, 242, 242);
+    border: 1px solid rgb(125, 125, 125);
+    font-weight: 600;
+  }
+  #inputemail:hover{
+    border: 1px solid #007fff;
+  }
+  #inputname:hover{
+    border: 1px solid #007fff;
+  }
+  #inputphone{
+      position: relative;
+      top: 70px;
+      width: 1000px;
+      /* justify-content: center; */
+  }
+  #inputphone_1{
+    background-color: rgb(243, 242, 242);
+    border: 1px solid rgb(125, 125, 125);
+    width: 975px;
+    font-weight: 600;
+  }
+  #inputphone_1:hover{
+    border: 1px solid #007fff;
+  }
+  #inputcomment{
+    position: relative;
+    top: 130px;
+  }
+  #exampleFormControlTextarea1{
+    width: 975px;
+    height: 150px;
+  }
+  #helpfotm_btn{
+    background-color: #007fff;
+    width: 150px;
+    position: relative;
+    top: 40px;
+    left: 13px;
+    color: white;
+    font-weight: 500;
+  }
+  #helpfotm_btn:hover{
+    background-color:#5aa86c;
+    width: 150px;
+    position: relative;
+    top: 40px;
+    left: 13px;
+    color: white;
+    font-weight: 500;
+  }
+  #footer{
+    background-color: #2f2e2e;
+    margin-top: 220px;
+    height: 280px;
+  }
+  #footercol_1 {
+    margin-top: 30px;
+    margin-left:150px;
+    width: 500px;
+  }
+  #footercol_1 h3{
+  color: #fff;
+  font-size: 20px;
+  }
+  #footercol_1 p{
+   width: 400px;
+   position: relative;
+   top: 30px;
+   color: #fff;
+   font-weight: 400;
+  }
+  #footercol_2{
+    margin-top: 30px;
+    width: 600px;
+  }
+  #footermanu li{
+    float: left;
+    margin-left: 20px;
+    list-style: none;
+    padding-left: 10px;
+  }
+  #footermanu a{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    top: 60px;
+    left: 20px;
+  }
+  #footerhr{
+    background-color: #fff;
+    position: relative;
+  height: 3px;
+  top: 40px;
+  }
+  #lastcopy{
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  @media screen and (max-width:767px) {
+    #topheader {
+        height: 10px;
+        background-color: #007fff;
+        display: none;
+    }
+    #logo {
+        width: 200px;
+        position: relative;
+        left: 6px;
+    }
+    #navbtn_2{
+        position: relative;
+        left: -10px;
+    }
+    #navmanu li a {
+        color: black;
+        position: relative;
+        left: 1px;
+        font-size: 20px;
+        font-weight: 500;
+        margin: 3px;
+        top: 18px;
+        text-align: center;
+    }
+    #navbtn {
+        background-color: #007fff;
+        color: white;
+        font-size: 15px;
+        border-radius: 30px;
+        width: 130px;
+        font-weight: 700;
+        position: relative;
+        left: -100px;
+        display: none;
+    }
+    #searchbtn {
+        display: inline;
+        width: 239px;
+        position: relative;
+        left: 66px;
+        top: 13px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    #navbar {
+        height: auto;
+        background-color: white;
+        width: 100%;
+    }
+    #Acon_1 img {
+        height: 283px;
+    }
+    #abouttext {
+        position: relative;
+        top: -200px;
+        left: 0px;
+        color: #fff;
+    }
+    #abouttext h1{
+    font-size: 47px;
+    margin-left: 22px;
+    }
+    #abouthr {
+        position: relative;
+        width: 40px;
+        height: 3px;
+        background-color: #fff;
+        top: -10px;
+        left: 21px;
+    }
+    #con_5 {
+        background-color: #ffffff;
+        background-image: url(welder-used-grinding-stone-on-steel-in-factory-wit-GYJX3WZ.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        padding-top: 60px;
+        padding-right: 30px;
+        padding-bottom: 60px;
+        padding-left: 30px;
+        margin-bottom: 0px;
+        margin-top: -205px;
+        border-width: 0px 0px 0px 0px;
+        border-color: #eae9e9;
+        border-style: solid;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-attachment: fixed;
+        height: 3130px;
+    }
+    #col_7 {
+        height: 200px;
+        position: relative;
+        top: -233px;
+    }
+    #col_4 {
+        height: 500px;
+        position: relative;
+        left: -10px;
+    }
+    #col_7 h3 {
+        position: relative;
+        top: 257px;
+        color: #fff;
+        font-size: 33px;
+        left: 10px;
+    }
+    #hr_7 {
+        width: 298px;
+        background-color: #fff;
+        height: 3px;
+        position: relative;
+        top: 255px;
+        left: 10px;
+    }
+    #col_7 p {
+        color: #fff;
+        width: 309px;
+        position: relative;
+        top: 258px;
+        left: 10px;
+    }
+    #col_8 {
+        height: 200px;
+        margin-top: 91px;
+    }
+    #col_8 h3 {
+        position: relative;
+        top: 258px;
+        color: #fff;
+        font-size: 33px;
+    }
+    #hr_8 {
+        width: 298px;
+        background-color: #fff;
+        height: 3px;
+        position: relative;
+        top: 254px;
+    }
+    #col_8 p {
+        color: #fff;
+        width: 309px;
+        position: relative;
+        top: 260px;
+    }
+    #col_9 {
+        height: 200px;
+        margin-top: 300px;
+    }
+    #col_9 h3 {
+        position: relative;
+        top: 258px;
+        color: #fff;
+        font-size: 33px;
+    }
+    #hr_9 {
+        width: 298px;
+        background-color: #fff;
+        height: 3px;
+        position: relative;
+        top: 259px;
+    }
+    #col_9 p {
+        color: #fff;
+        width: 309px;
+        position: relative;
+        top: 260px;
+    }
+    #row_2 {
+        position: relative;
+        top: 283px;
+    }
+    #col_10 h3 {
+        position: relative;
+        top: 253px;
+        color: #fff;
+        font-size: 33px;
+    }
+    #col_10 p {
+        color: #fff;
+        width: 309px;
+        position: relative;
+        top: 255px;
+    }
+    #hr_10 {
+        width: 298px;
+        background-color: #fff;
+        height: 3px;
+        position: relative;
+        top: 254px;
+    }
+    #col_11 {
+        height: 200px;
+        margin-top: 332px;
+    }
+    #col_11 h3 {
+        position: relative;
+        top: 253px;
+        color: #fff;
+        font-size: 33px;
+    }
+    #col_11 p {
+        color: #fff;
+        width: 309px;
+        position: relative;
+        top: 259px;
+    }
+    #col_12 {
+        height: 200px;
+        margin-top: 277px;
+    }
+    #col_12 h3 {
+        position: relative;
+        top: 241px;
+        color: #fff;
+        font-size: 33px;
+    }
+    #hr_12 {
+        width: 298px;
+        background-color: #fff;
+        height: 3px;
+        position: relative;
+        top: 238px;
+    }
+    #hr_11 {
+        width: 298px;
+        background-color: #fff;
+        height: 3px;
+        position: relative;
+        top: 254px;
+    }
+    #col_12 p {
+        color: #fff;
+        width: 309px;
+        position: relative;
+        top: 237px;
+    }
+    #desi {
+        width: 207px;
+        height: 70px;
+        position: relative;
+        left: -119px;
+        top: 57px;
+        display: none;
+      }
+      #desi_1 {
+        width: 207px;
+        height: 70px;
+        position: relative;
+        left: -229px;
+        top: 75px;
+        display: none;
+      }
+      #col_7 img {
+        height: 200px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        position: relative;
+        top: 243px;
+    }
+    #col_8 img {
+        height: 200px;
+        width: 350px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        position: relative;
+        top: 243px;
+    }
+    #col_9 img {
+        height: 200px;
+        width: 350px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        position: relative;
+        top: 243px;
+    }
+    #col_10 img {
+        height: 200px;
+        width: 350px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        position: relative;
+        top: 243px;
+    }
+    #col_11 img {
+        height: 200px;
+        width: 350px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        position: relative;
+        top: 243px;
+    }
+    #col_12 img {
+        height: 200px;
+        width: 350px;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        position: relative;
+        top: 243px;
+    }
+    #hr_1 {
+        width: 52px;
+        height: 2px;
+        background-color: black;
+        position: relative;
+        left: 22px;
+        top: -10px;
+    }
+    #form {
+        position: relative;
+        top: 0px;
+        height: 445px;
+    }
+    #form_col h2 {
+        color: #fff;
+        font-weight: 700;
+        position: relative;
+        top: 39px;
+        width: 359px;
+        left: -8px;
+    }
+    #input_1 {
+        position: relative;
+        top: 63px;
+        width: 323px;
+    }
+    #input_2 {
+        position: relative;
+        top: 85px;
+        width: 324px;
+    }
+    #input_3 {
+        position: relative;
+        top: 103px;
+        width: 328px;
+    }
+    #form_btn {
+        border: #ff7a59;
+        background-color: #ff7a59;
+        color: #fff;
+        position: relative;
+        top: 127px;
+        font-weight: 700;
+    }
+    #footer {
+        background-color: #2f2e2e;
+        margin-top: 131px;
+        height: 392px;
+    }
+    #footercol_1 p {
+        width: 356px;
+        position: relative;
+        top: 30px;
+        color: #fff;
+        font-weight: 400;
+    }
+    #footercol_1 {
+        margin-top: 30px;
+        margin-left: 0px;
+        width: 500px;
+    }
+    #footermanu a {
+        color: #fff;
+        font-size: 19px;
+        font-weight: 500;
+        position: relative;
+        top: 9px;
+        left: -26px;
+    }
+    #con_9{
+        margin-top:-64px;
+    }
+    #inputform {
+        position: relative;
+        top: 70px;
+        left:0px;
+        width: auto;
+    }
+    #inputphone_1 {
+        background-color: rgb(243, 242, 242);
+        border: 1px solid rgb(125, 125, 125);
+        font-weight: 600;
+        width: 343px;
+    }
+    #exampleFormControlTextarea1 {
+        width: 346px;
+        height: 150px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width:1023px){
+  #navbar {
+      height: auto;
+      background-color: white;
+      width: 100%;
+  }
+  #navmanu li a {
+      color: black;
+      position: relative;
+      left: 21px;
+      font-size: 31px;
+      font-weight: 400;
+      margin: 3px;
+      text-align: center;
+  }
+  #topheader {
+      height: 70px;
+      display: none;
+      background-color: #007fff;
+  }
+  #logo {
+      width: 276px;
+      position: relative;
+      left: -21px;
+      height: 86px;
+  }
+  #navbtn {
+      background-color: #007fff;
+      color: white;
+      font-size: 15px;
+      border-radius: 30px;
+      width: 214px;
+      font-weight: 700;
+      position: relative;
+      left: 0px;
+      height: 40px;
+      display: none;
+  }
+  #searchbtn {
+      display: inline;
+              width: 500px;
+      height: 50px;
+      font-size: 20px;
+      position: relative;
+      left: 105px;
+      border: 1px solid black;
+  }
+  #text {
+      margin-top: -402px;
+      width: 600px;
+      color: white;
+      margin-left: -31px;
+      text-align: justify;
+  }
+  #Acon_1 img {
+      height: 399px;
+  }
+  #abouttext {
+      position: relative;
+      top: -248px;
+      left: 53px;
+      color: #fff;
+  }
+  #abouttext h1{
+      font-size: 74px;
+  position: relative;
+  top: -17px;
+  }
+  #abouthr {
+      position: relative;
+      width: 74px;
+      height: 3px;
+      background-color: #fff;
+      top: -12px;
+  }
+  #con_5 {
+      background-color: #ffffff;
+      background-image: url(welder-used-grinding-stone-on-steel-in-factory-wit-GYJX3WZ.jpg);
+      background-position: center center;
+      background-repeat: no-repeat;
+      padding-top: 60px;
+      padding-right: 30px;
+      padding-bottom: 60px;
+      padding-left: 30px;
+      margin-bottom: 0px;
+      margin-top: 220px;
+      border-width: 0px 0px 0px 0px;
+      border-color: #eae9e9;
+      border-style: solid;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 1173px;
+  }
+  #col_11 h3 {
+      position: relative;
+      top: 10px;
+      color: #fff;
+      left: 3px;
+  }
+  #col_11 h3 {
+      position: relative;
+      top: 10px;
+      color: #fff;
+      left: 3px;
+  }
+  #col_10 h3 {
+      position: relative;
+      top: 10px;
+      color: #fff;
+      /* font-size: 23px; */
+      left: 4px;
+  }
+  #hr_10 {
+      width: 209px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+      left: 5px;
+  }
+  #hr_11 {
+      width: 209px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+      left: 5px;
+  }
+  #hr_12 {
+      width: 209px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+      left: 6px;
+  }
+  #col_12 p {
+      color: #fff;
+      width: 390px;
+      position: relative;
+      left: 8px;
+      width: 224px;
+  }
+  #col_11 p {
+      color: #fff;
+      width: 390px;
+      position: relative;
+      left: 8px;
+      width: 224px;
+  }
+  #col_10 p {
+      color: #fff;
+      width: 390px;
+      position: relative;
+      left: 8px;
+      width: 224px;
+  }
+  #desi {
+      width: 207px;
+      height: 70px;
+      position: relative;
+      left: -119px;
+      top: 57px;
+      display: none;
+    }
+    #desi_1 {
+      width: 207px;
+      height: 70px;
+      position: relative;
+      left: -229px;
+      top: 75px;
+      display: none;
+    }
+    #col_7 img {
+      height: 200px;
+      border: 2px solid #ddd;
+      border-radius: 10px;
+      position: relative;
+      left: -30px;
+  }
+  #col_8 img {
+      height: 200px;
+      width: 350px;
+      border: 2px solid #ddd;
+      border-radius: 10px;
+      position: relative;
+      left: -30px;
+  }
+  #col_9 img {
+      height: 200px;
+      width: 350px;
+      border: 2px solid #ddd;
+      border-radius: 10px;
+      position: relative;
+      left: -30px;
+  }
+  #hr_9 {
+      width: 204px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+      left: -28px;
+  }
+  #hr_8 {
+      width: 204px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+      left: -28px;
+  }
+  #hr_7 {
+      width: 204px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+      left: -28px;
+  }
+  #col_7 p {
+      color: #fff;
+      position: relative;
+      width: 224px;
+      left: -27px;
+  }
+  #col_8 p {
+      color: #fff;
+      width: 226px;
+      position: relative;
+      left: -28px;
+  }
+  #col_9 p {
+      color: #fff;
+      width: 228px;
+      position: relative;
+      left: -27px;
+  }
+  #col_9 h3 {
+      position: relative;
+      top: 10px;
+      color: #fff;
+      left: -23px;
+  }
+  #col_8 h3 {
+      position: relative;
+      top: 10px;
+      left: -25px;
+      color: #fff;
+  }
+  #col_7 h3 {
+      position: relative;
+      top: 10px;
+      color: #fff;
+      left: -29px;
+  }
+  #row_2 {
+      position: relative;
+      top: 292px;
+      left: -28px;
+  }
+  #inputform {
+      position: relative;
+      top: 70px;
+      width: 762px;
+      /* justify-content: center; */
+      left: 0px;
+  }
+  #inputphone_1 {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      width: 646px;
+      font-weight: 600;
+      position: relative;
+      left: 27px;
+  }
+  #inputname {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      font-weight: 600;
+      width: 300px;
+      position: relative;
+      left: 28px;
+  }
+  #inputemail {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      font-weight: 600;
+      position: relative;
+      width: 300px;
+      left: -15px;
+  }
+  #exampleFormControlTextarea1 {
+      width: 641px;
+      height: 150px;
+      position: relative;
+      left: 27px;
+  }
+  #helpfotm_btn {
+      background-color: #007fff;
+      width: 150px;
+      position: relative;
+      top: 39px;
+      left: 42px;
+      color: white;
+      font-weight: 500;
+      height: 52px;
+  }
+  #footer {
+      background-color: #2f2e2e;
+      margin-top: 220px;
+      height: 283px;
+  }
+  #footercol_1 {
+      margin-top: 30px;
+      margin-left: 53px;
+      width: 408px;
+  }
+  #footercol_2 {
+      margin-top: -148px;
+      width: 368px;
+      margin-left: 363px;
+  }
+  #footercol_1 p {
+      width: 356px;
+      position: relative;
+      top: 30px;
+      color: #fff;
+      font-weight: 400;
+  }
+}
+@media screen and (min-width:1024px) and (max-width:1280px){
+  #logo {
+      width: 200px;
+      position: relative;
+      left: 58px;
+  }
+  #navbtn {
+      background-color: #007fff;
+      color: white;
+      font-size: 13px;
+      border-radius: 30px;
+      width: 169px;
+      font-weight: 700;
+      position: relative;
+      left: 34px;
+      height: 40px;
+  }
+  #navmanu li a {
+      color: black;
+      position: relative;
+      left: 142px;
+      font-size: 15px;
+      font-weight: 600;
+      margin: 3px;
+  }
+  #Acon_1 img {
+      height: 316px;
+  }
+  #abouttext {
+      position: relative;
+      top: -200px;
+      left: 0px;
+      color: #fff;
+  }
+  #abouthr {
+      position: relative;
+      width: 40px;
+      height: 3px;
+      background-color: #fff;
+      top: -10px;
+      left: 30px;
+  }
+  #col_7 p {
+      color: #fff;
+      width: 317px;
+  }
+  #hr_7 {
+      width: 301px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+  }
+  #hr_8 {
+      width: 296px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+  }
+  #col_8 p {
+      color: #fff;
+      width: 327px;
+  }
+  #hr_9 {
+      width: 296px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+  }
+  #col_9 p {
+      color: #fff;
+      width: 326px;
+  }
+  #hr_10 {
+      width: 296px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+  }
+  #col_10 p {
+      color: #fff;
+      width: 325px;
+  }
+  #hr_11 {
+      width: 296px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+  }
+  #col_11 p {
+      color: #fff;
+      width: 320px;
+  }
+  #hr_12 {
+      width: 296px;
+      background-color: #fff;
+      height: 3px;
+      position: relative;
+      top: 2px;
+  }
+  #col_12 p {
+      color: #fff;
+      width: 305px;
+  }
+  #inputform {
+      position: relative;
+      top: 70px;
+      width: 919px;
+      /* justify-content: center; */
+      left: 21px;
+  }
+  #inputphone_1 {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      width: 897px;
+      font-weight: 600;
+  }
+  #exampleFormControlTextarea1 {
+      width: 898px;
+      height: 150px;
+  }
+  #helpform {
+      position: relative;
+      top: 150px;
+      height: 700px;
+      border-radius: 20px;
+      left: 10px;
+  }
+  #footercol_1 {
+      margin-top: 30px;
+      margin-left: 53px;
+      width: 406px;
+  }
+  #footercol_2 {
+      margin-top: -127px;
+      width: 600px;
+      margin-left: 405px;
+  }
+}

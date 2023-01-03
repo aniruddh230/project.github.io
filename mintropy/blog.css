@@ -1,0 +1,795 @@
+#topheader {
+    height: 70px;
+    background-color: #007fff;
+  }
+  
+  #topicon i {
+    position: relative;
+    left: 90px;
+    top: 4px;
+    padding: 8px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  #timeandcall {
+    width: 300px;
+    height: 60px;
+    top: 0px;
+    position: relative;
+    left: -200px;
+  }
+  
+  #clockicon {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    top: 13px;
+    left: 2px;
+  }
+  
+  #time {
+    color: white;
+    font-size: 13px;
+    position: relative;
+    top: -25px;
+    left: 50px;
+  }
+  
+  #time_1 {
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: -30px;
+    left: 43px;
+    font-weight: 100;
+  }
+  
+  #vl {
+    border-left: 1px solid white;
+    height: 35px;
+    position: relative;
+    top: -75px;
+    left: 205px;
+  }
+  
+  #callicon {
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    top: -106px;
+    left: 227px;
+  }
+  
+  #call {
+    /* background-color: black; */
+    color: white;
+    position: relative;
+    top: -145px;
+    left: 271px;
+    font-size: 13px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  #number {
+    color: white;
+    position: relative;
+    top: -150px;
+    left: 264px;
+    font-weight: 100;
+    font-size: 17px;
+  }
+  
+  #logo {
+    width: 200px;
+    position: relative;
+    left: 90px;
+  }
+  
+  #navbar {
+    height: 90px;
+    background-color: white;
+  
+    width: 100%;
+  }
+  
+  #navmanu li a {
+    color: black;
+    position: relative;
+    left: 400px;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 3px;
+  
+  }
+  
+  #navmanu li a:hover {
+    color: #007fff;
+  }
+  
+  #navbtn {
+    background-color: #007fff;
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    width: 214px;
+    font-weight: 700;
+    position: relative;
+    left: 0px;
+    height: 40px;
+  }
+  
+  #navbtn:hover {
+    background-color: #5aa86c;
+    border: 1px solid #5aa86c;
+  }
+  
+  #dropdown {
+    position: absolute;
+    left: 509px;
+    border-radius: 0px;
+    width: 250px;
+  }
+  
+  #dropdown li {
+    position: relative;
+    left: -500px;
+  }
+  #searchbtn {
+    display: none;
+  }
+  #abouttext{
+    position: relative;
+    top: -200px;
+    left: 100px;
+    color: #fff;
+  }  
+  #abouthr{
+    position: relative;
+    width: 40px;
+    height: 3px;
+    background-color: #fff;
+    top: -10px;
+  }
+  #con_8 {
+    margin-top: -50px;
+    height: 750px;
+  }
+  #con_8_10row h2{
+    text-align: center;
+    font-weight: 500;
+  }
+  #con_8_11row h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+  }
+  #col_8_1{
+   
+    height: 200px;
+  }
+  #col_8_2{
+    height: 200px;
+  }
+  #col_8_3{
+    height: 200px;
+  }
+  #con_8_12row {
+    position: relative;
+    top: 150px;
+  }
+  #con_8_10row{
+    position: relative;
+      top: 51px;
+  }
+  #con_8_11row{
+    position: relative;
+      top: 51px;
+  }
+  #con_8_img1{
+    border: 3px solid #007fff;
+      border-radius: 10px;
+      height: 226px;
+  }
+  #con_8_img2{
+    border: 3px solid #007fff;
+      border-radius: 10px;
+      height: 226px;
+  }
+  #con_8_img3 {
+    border: 3px solid #007fff;
+    border-radius: 10px;
+    height: 226px;
+  }
+  
+  #date_1 h3 {
+    position: relative;
+    bottom: 226px;
+    z-index: 3;
+    color: #ffffff;
+    background: #007fff;
+    transform: rotate(270deg);
+    width: 225px;
+    margin-bottom: -1px;
+    text-align: center;
+    left: -88px;
+    border-radius: 8px 8px 0px 0px;
+    padding: 12px 0;
+    font-size: 17px;
+    top: -136px;
+  }
+  #date_2 h3 {
+    position: relative;
+    bottom: 227px;
+    z-index: 3;
+    color: #ffffff;
+    background: #007fff;
+    transform: rotate(270deg);
+    width: 225px;
+    margin-bottom: -1px;
+    text-align: center;
+    left: -88px;
+    border-radius: 8px 8px 0px 0px;
+    padding: 12px 0;
+    font-size: 17px;
+    top: -136px;
+    height: 46px;
+  }
+  #date_3 h3 {
+    position: relative;
+    bottom: 226px;
+    z-index: 3;
+    color: #ffffff;
+    background: #007fff;
+    transform: rotate(270deg);
+    width: 225px;
+    margin-bottom: -1px;
+    text-align: center;
+    left: -89px;
+    border-radius: 8px 8px 0px 0px;
+    padding: 12px 0;
+    font-size: 17px;
+    top: -135px;
+  }
+  #col_8_t1{
+    color: #007fff;
+    position: relative;
+    top: -25px;
+    font-size: 25px;
+  }
+  #col_8_t2{
+    color: #007fff;
+    position: relative;
+    top: -25px;
+    font-size: 25px;
+    width: 350px;
+  }
+  #col_8_t3{
+    color: #007fff;
+    position: relative;
+    top: -25px;
+    font-size: 25px;
+    width: 350px;
+  }
+  #form{
+    margin-top: 100px;
+    background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+    height: 400px;
+  }
+  #form_col h2{
+   color: #fff;
+   font-weight: 700;
+   position: relative;
+   top: 50px;
+   width: 500px;
+   left: 50px;
+  }
+  #input_1{
+    position: relative;
+    top: 50px;
+    width: 500px;
+  }
+  #input_2{
+    position: relative;
+    top: 70px;
+    width: 500px;
+  }
+  #input_3{
+    position: relative;
+    top: 90px;
+    width: 500px;
+  }
+  #form_btn{
+    border: #ff7a59;
+    background-color: #ff7a59;
+    color: #fff;
+    position: relative;
+    top: 115px;
+    font-weight: 700;
+  }
+  #footer{
+    background-color: #2f2e2e;
+    margin-top: 0px;
+    height: 280px;
+  }
+  #footercol_1 {
+    margin-top: 30px;
+    margin-left:150px;
+    width: 500px;
+  }
+  #footercol_1 h3{
+  color: #fff;
+  font-size: 20px;
+  }
+  #footercol_1 p{
+   width: 400px;
+   position: relative;
+   top: 30px;
+   color: #fff;
+   font-weight: 400;
+  }
+  #footercol_2{
+    margin-top: 30px;
+    width: 600px;
+  }
+  #footermanu li{
+    float: left;
+    margin-left: 20px;
+    list-style: none;
+    padding-left: 10px;
+  }
+  #footermanu a{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    top: 60px;
+    left: 20px;
+  }
+  #footerhr{
+    background-color: #fff;
+    position: relative;
+  height: 3px;
+  top: 40px;
+  }
+  #lastcopy{
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+
+  @media screen and (max-width:767px) {
+    #topheader {
+        height: 10px;
+        background-color: #007fff;
+        display: none;
+    }
+    #logo {
+        width: 200px;
+        position: relative;
+        left: 6px;
+    }
+    #navbtn_2{
+        position: relative;
+        left: -10px;
+    }
+    #navmanu li a {
+        color: black;
+        position: relative;
+        left: 1px;
+        font-size: 20px;
+        font-weight: 500;
+        margin: 3px;
+        top: 18px;
+        text-align: center;
+    }
+    #navbtn {
+        background-color: #007fff;
+        color: white;
+        font-size: 15px;
+        border-radius: 30px;
+        width: 130px;
+        font-weight: 700;
+        position: relative;
+        left: -100px;
+        display: none;
+    }
+    #searchbtn {
+        display: inline;
+        width: 239px;
+        position: relative;
+        left: 66px;
+        top: 13px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    #navbar {
+        height: auto;
+        background-color: white;
+        width: 100%;
+    }
+    #Acon_1 img {
+        height: 283px;
+    }
+    #abouttext {
+        position: relative;
+        top: -200px;
+        left: 0px;
+        color: #fff;
+    }
+    #abouttext h1{
+    font-size: 47px;
+    margin-left: 22px;
+    }
+    #abouthr {
+        position: relative;
+        width: 40px;
+        height: 3px;
+        background-color: #fff;
+        top: -10px;
+        left: 21px;
+    }
+    #form {
+        position: relative;
+        top: -100px;
+        height: 445px;
+    }
+    #form_col h2 {
+        color: #fff;
+        font-weight: 700;
+        position: relative;
+        top: 39px;
+        width: 359px;
+        left: -8px;
+    }
+    #input_1 {
+        position: relative;
+        top: 63px;
+        width: 323px;
+    }
+    #input_2 {
+        position: relative;
+        top: 85px;
+        width: 324px;
+    }
+    #input_3 {
+        position: relative;
+        top: 103px;
+        width: 328px;
+    }
+    #form_btn {
+        border: #ff7a59;
+        background-color: #ff7a59;
+        color: #fff;
+        position: relative;
+        top: 127px;
+        font-weight: 700;
+    }
+    #footer {
+        background-color: #2f2e2e;
+        margin-top: -101px;
+        height: 392px;
+    }
+    #footercol_1 p {
+        width: 356px;
+        position: relative;
+        top: 30px;
+        color: #fff;
+        font-weight: 400;
+    }
+    #footercol_1 {
+        margin-top: 30px;
+        margin-left: 0px;
+        width: 500px;
+    }
+    #footermanu a {
+        color: #fff;
+        font-size: 19px;
+        font-weight: 500;
+        position: relative;
+        top: 9px;
+        left: -26px;
+    }
+    #con_3_col2 {
+        position: relative;
+        top: 31px;
+    }
+    #con_3 {
+        margin-top: 120px;
+        height: 984px;
+        background-color: #2f2e2e;
+    }
+    #con_3_col1 p {
+        color: #fff;
+        width: 347px;
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    #con_3 {
+        margin-top: 120px;
+        height: 1048px;
+        background-color: #2f2e2e;
+    }
+    #con_8 {
+        /* margin-top: 599px; */
+        position: relative;
+        top: -40px;
+        /* background-color: #f8f8f8; */
+        height: 1411px;
+    }
+    #col_8_2 {
+        height: 200px;
+        position: relative;
+        top: 114px;
+    }
+    #col_8_3 {
+        height: 200px;
+        position: relative;
+        top: 305px;
+    }
+}
+
+@media screen and (min-width:767px) and (max-width:1023px){
+  #navbar {
+      height: auto;
+      background-color: white;
+      width: 100%;
+  }
+  #navmanu li a {
+      color: black;
+      position: relative;
+      left: 21px;
+      font-size: 31px;
+      font-weight: 400;
+      margin: 3px;
+      text-align: center;
+  }
+  #topheader {
+      height: 70px;
+      display: none;
+      background-color: #007fff;
+  }
+  #form {
+      margin-top: 31px;
+      background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+      height: 429px;
+  }
+  #logo {
+      width: 276px;
+      position: relative;
+      left: -21px;
+      height: 86px;
+  }
+  #navbtn {
+      background-color: #007fff;
+      color: white;
+      font-size: 15px;
+      border-radius: 30px;
+      width: 214px;
+      font-weight: 700;
+      position: relative;
+      left: 0px;
+      height: 40px;
+      display: none;
+  }
+  #searchbtn {
+      display: inline;
+              width: 500px;
+      height: 50px;
+      font-size: 20px;
+      position: relative;
+      left: 105px;
+      border: 1px solid black;
+  }
+  #text {
+      margin-top: -402px;
+      width: 600px;
+      color: white;
+      margin-left: -31px;
+      text-align: justify;
+  }
+  #Acon_1 img {
+      height: 399px;
+  }
+  #abouttext {
+      position: relative;
+      top: -248px;
+      left: 53px;
+      color: #fff;
+  }
+  #abouttext h1{
+      font-size: 74px;
+  position: relative;
+  top: -17px;
+  }
+  #abouthr {
+      position: relative;
+      width: 74px;
+      height: 3px;
+      background-color: #fff;
+      top: -12px;
+  }
+  #col_8_t1 {
+      color: #007fff;
+      position: relative;
+      top: -29px;
+      font-size: 20px;
+  }
+  #col_8_t2 {
+      color: #007fff;
+      position: relative;
+      top: -32px;
+      font-size: 20px;
+      width: 223px;
+  }
+  #col_8_t3 {
+      color: #007fff;
+      position: relative;
+      top: -32px;
+      font-size: 20px;
+      width: 232px;
+  }
+  #con_8 {
+      margin-top: -143px;
+      height: 666px;
+  }
+  #inputform {
+      position: relative;
+      top: 70px;
+      width: 762px;
+      /* justify-content: center; */
+      left: 0px;
+  }
+  #inputphone_1 {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      width: 646px;
+      font-weight: 600;
+      position: relative;
+      left: 27px;
+  }
+  #inputname {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      font-weight: 600;
+      width: 300px;
+      position: relative;
+      left: 28px;
+  }
+  #inputemail {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      font-weight: 600;
+      position: relative;
+      width: 300px;
+      left: -15px;
+  }
+  #exampleFormControlTextarea1 {
+      width: 641px;
+      height: 150px;
+      position: relative;
+      left: 27px;
+  }
+  #helpfotm_btn {
+      background-color: #007fff;
+      width: 150px;
+      position: relative;
+      top: 39px;
+      left: 42px;
+      color: white;
+      font-weight: 500;
+      height: 52px;
+  }
+  #footer {
+      background-color: #2f2e2e;
+      margin-top:1px;
+      height: 283px;
+  }
+  #footercol_1 {
+      margin-top: 30px;
+      margin-left: 53px;
+      width: 408px;
+  }
+  #footercol_2 {
+      margin-top: -148px;
+      width: 368px;
+      margin-left: 363px;
+  }
+  #footercol_1 p {
+      width: 356px;
+      position: relative;
+      top: 30px;
+      color: #fff;
+      font-weight: 400;
+  }
+}
+
+@media screen and (min-width:1024px) and (max-width:1280px){
+  #logo {
+      width: 200px;
+      position: relative;
+      left: 58px;
+  }
+  #navbtn {
+      background-color: #007fff;
+      color: white;
+      font-size: 13px;
+      border-radius: 30px;
+      width: 169px;
+      font-weight: 700;
+      position: relative;
+      left: 34px;
+      height: 40px;
+  }
+  #navmanu li a {
+      color: black;
+      position: relative;
+      left: 142px;
+      font-size: 15px;
+      font-weight: 600;
+      margin: 3px;
+  }
+  #Acon_1 img {
+      height: 316px;
+  }
+  #abouttext {
+      position: relative;
+      top: -200px;
+      left: 0px;
+      color: #fff;
+  }
+  #abouthr {
+      position: relative;
+      width: 40px;
+      height: 3px;
+      background-color: #fff;
+      top: -10px;
+      left: 30px;
+  }
+
+  #inputform {
+      position: relative;
+      top: 70px;
+      width: 919px;
+      /* justify-content: center; */
+      left: 21px;
+  }
+  #inputphone_1 {
+      background-color: rgb(243, 242, 242);
+      border: 1px solid rgb(125, 125, 125);
+      width: 897px;
+      font-weight: 600;
+  }
+  #exampleFormControlTextarea1 {
+      width: 898px;
+      height: 150px;
+  }
+  #helpform {
+      position: relative;
+      top: 150px;
+      height: 700px;
+      border-radius: 20px;
+      left: 10px;
+  }
+  #footercol_1 {
+      margin-top: 30px;
+      margin-left: 53px;
+      width: 406px;
+  }
+  #footercol_2 {
+      margin-top: -127px;
+      width: 600px;
+      margin-left: 405px;
+  }
+  #form {
+      margin-top: 43px;
+      background-image: url(robin-sommer-wnOJ83k8r4w-unsplash.jpg);
+      height: 441px;
+  }
+}
